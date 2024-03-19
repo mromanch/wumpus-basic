@@ -28,4 +28,4 @@ brassica.run('wumpus')
 Wumpus can be found all over the internet, but the best history is preserved in the
 [atariarchives.org](https://www.atariarchives.org/bcc1/showpage.php?page=247),
 which includes the original published
-[**Hunt the Wumpus** BASIC program listing}(https://www.atariarchives.org/bcc1/showpage.php?page=250).
+[**Hunt the Wumpus** BASIC program listing](https://www.atariarchives.org/bcc1/showpage.php?page=250).
